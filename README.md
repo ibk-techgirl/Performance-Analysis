@@ -1,6 +1,6 @@
 # Performance Analysis Dashboard
 
-![Performance Analysis Dashboard]([images/performance_dashboard.png])
+![Performance Analysis Dashboard](https://drive.google.com/uc?export=view&id=1NvE2Ov0MlPDEy-Q3OxNcTWpCiFSfh3bI)
 
 ## Overview
 The **Performance Analysis Dashboard** is a data visualization project developed using **Power BI**. This dashboard is designed to provide comprehensive insights into employee performance metrics across various departments within an organization. It serves as a powerful tool for managers and decision-makers to assess employee tenure, salary distribution, and geographical representation, enabling data-driven decision-making.
